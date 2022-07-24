@@ -1,6 +1,6 @@
 해결한 알고리즘 문제를 저장할 폴더
 
-
+solve : [minjaekim](https://github.com/limecats0331)
 
 |문제 유형|문제 링크|내 풀이|회차|
 |----|----|----|----|
