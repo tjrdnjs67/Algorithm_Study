@@ -7,5 +7,5 @@
 |stack|[17298_오큰수](https://www.acmicpc.net/problem/17298)|[정답 코드](./stack/17298_오큰수.py)|2|
 |bfs|[1926_그림](https://www.acmicpc.net/problem/1926)|[정답 코드](./bfs/1926_그림.py)|2|
 |stack|[4949_균형잡힌 세상](https://www.acmicpc.net/problem/4949)|[정답 코드](./stack/4949_균형잡힌세상.py)|3|
-|bfs|[2178_미로 탐색](https://www.acmicpc.net/problem/2178)|[정답 코드](./bfs/1926_미로탐색.py)|3|
+|bfs|[2178_미로 탐색](https://www.acmicpc.net/problem/2178)|[정답 코드](./bfs/2178_미로탐색.py)|3|
 
