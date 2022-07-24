@@ -1,4 +1,4 @@
-해결한 알고리즘 문제를 저장할 폴더
+알고리즘 스터디
 
 solve : [minjaekim](https://github.com/limecats0331)
 
