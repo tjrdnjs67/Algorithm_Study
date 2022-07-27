@@ -8,4 +8,5 @@
 |bfs|[1926_그림](https://www.acmicpc.net/problem/1926)|[정답 코드](./bfs/1926_그림.py)|2|
 |stack|[4949_균형잡힌 세상](https://www.acmicpc.net/problem/4949)|[정답 코드](./stack/4949_균형잡힌세상.py)|3|
 |bfs|[2178_미로 탐색](https://www.acmicpc.net/problem/2178)|[정답 코드](./bfs/2178_미로탐색.py)|3|
-
+|stack|[3015_오아시스 재결합](https://www.acmicpc.net/problem/3015)|[정답 코드](./stack/3015_오아시스재결합.py)|4|
+|bfs|[4179_불!](https://www.acmicpc.net/problem/4179)|[정답 코드](./bfs/4179_불.py)|4|
