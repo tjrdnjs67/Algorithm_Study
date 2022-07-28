@@ -1,5 +1,4 @@
 import sys
-sys.stdin = open("input.txt","rt")
 
 def DFS(v):
     global result
