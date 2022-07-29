@@ -12,3 +12,4 @@
 |bfs|[4179_불!](https://www.acmicpc.net/problem/4179)|[정답 코드](./bfs/4179_불.py)|4|
 |dfs|[9466_텀 프로젝트](https://www.acmicpc.net/problem/9466)|[정답 코드](./bfs/9466_텀프로젝트.py)|4|
 |bfs|[10026_적록색약](https://www.acmicpc.net/problem/10026)|[정답 코드](./bfs/10026_적록색약.py)|5|
+|recursion|[11729_하노이 탑](https://www.acmicpc.net/problem/11729)|[정답 코드](./recursion/11729_하노이탑.py)|5|
