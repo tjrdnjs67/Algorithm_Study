@@ -7,7 +7,6 @@ board = []
 visited = []
 
 def bfs(board, start, visited):
-    #savedBoard = [line[:] for line in board]
     zero = []
     tmp = 0
     # 상하좌우
@@ -41,6 +40,12 @@ def bfs(board, start, visited):
     #showBoard()
     return board
 
+def allClear():
+    for line in board:
+        for e in line:
+            if e != 0:
+                return False
+    return True
 
 def showBoard():
     print("-----------")
@@ -66,9 +71,11 @@ if __name__ == "__main__":
                     #print(result, [i,j])
                     board = bfs(board, [i, j], visited)
                     count += 1
-
+        if(allClear()):
+            result = 0
+            break
     print(result)
 
 ## timeout
-## python3 34%
-## pypy3 64%
+## python3 37%
+## pypy3 93%% fail
