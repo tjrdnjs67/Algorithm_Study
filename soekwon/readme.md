@@ -14,3 +14,5 @@
 |bfs|[10026_적록색약](https://www.acmicpc.net/problem/10026)|[정답 코드](./bfs/10026_적록색약.py)|5|
 |recursion|[11729_하노이 탑](https://www.acmicpc.net/problem/11729)|[정답 코드](./recursion/11729_하노이탑.py)|5|
 |recursion|[1780_종이의 개수](https://www.acmicpc.net/problem/1780)|[정답 코드](./recursion/1780_종이의개수.py)|6|
+|recursion|[2447_별 찍기](https://www.acmicpc.net/problem/2447)|[정답 코드](./recursion/2447_별찍기.py)|6|
+|bfs|[2573_빙산](https://www.acmicpc.net/problem/2573)|[정답 코드](./bfs/2573_빙산.java)|7|
