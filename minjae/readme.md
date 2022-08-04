@@ -18,4 +18,4 @@
 |recursion|[1780_종이의 개수](https://www.acmicpc.net/problem/1780)|[정답 코드](./recursive/1780_minjae.py)|6|
 |recursion|[2447_별 찍기](https://www.acmicpc.net/problem/2447)|[정답 코드](./recursive/2447_minjae.py)|6|
 |bfs|[2573_빙산](https://www.acmicpc.net/problem/2573)|[정답 코드](./bfs/2573_minjae.py)|7|
-|backtracking|[9663_N-Queen](https://www.acmicpc.net/problem/9663)|[정답 코드](./backtracking/algo_9663.java|7|
+|backtracking|[9663_N-Queen](https://www.acmicpc.net/problem/9663)|[정답 코드](./backtracking/algo_9663.java)|7|
