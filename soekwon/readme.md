@@ -16,4 +16,6 @@
 |recursion|[1780_종이의 개수](https://www.acmicpc.net/problem/1780)|[정답 코드](./recursion/1780_종이의개수.py)|6|
 |recursion|[2447_별 찍기](https://www.acmicpc.net/problem/2447)|[정답 코드](./recursion/2447_별찍기.py)|6|
 |bfs|[2573_빙산](https://www.acmicpc.net/problem/2573)|[정답 코드](./bfs/2573_빙산.java)|7|
-|backtracking|[6603_로또](https://www.acmicpc.net/problem/6603)|[정답 코드](./backtracking/6603_로또.java)|7|
+|backtracking|[6603_로또](https://www.acmicpc.net/problem/6603)|[정답 코드](./backtracking/6603_로또.java)|8|
+|simulation|[14891_톱니바퀴](https://www.acmicpc.net/problem/14891)|[정답 코드](./simulation/14891_톱니바퀴.py)|8|
+|dynamic|[9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|[정답 코드](./dynamic/9095_123더하기.py)|9|
