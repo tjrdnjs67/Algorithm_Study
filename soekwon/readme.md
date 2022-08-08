@@ -19,3 +19,4 @@
 |backtracking|[6603_로또](https://www.acmicpc.net/problem/6603)|[정답 코드](./backtracking/6603_로또.java)|8|
 |simulation|[14891_톱니바퀴](https://www.acmicpc.net/problem/14891)|[정답 코드](./simulation/14891_톱니바퀴.py)|8|
 |dynamic|[9095_1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|[정답 코드](./dynamic/9095_123더하기.py)|9|
+|simulation|[15683_감시](https://www.acmicpc.net/problem/15683)|[정답 코드](./simulation/15683_감시.py)|9|
