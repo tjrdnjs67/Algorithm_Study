@@ -21,3 +21,6 @@
 |backtracking|[9663_N-Queen](https://www.acmicpc.net/problem/9663)|[정답 코드](./backtracking/algo_9663.java)|7|
 |backtracking|[6603_lotto](https://www.acmicpc.net/problem/6603)|[정답 코드](./backtracking/algo_6603.java)|8|
 |simulation|[14891_톱니바퀴](https://www.acmicpc.net/problem/14891)|[정답 코드](./simulation/algo_14891.java)|8|
+|dp|[9095_123더하기](https://www.acmicpc.net/problem/9095)|[정답 코드](./dp/algo_9095.java)|9|
+|simulation|[15683_감시](https://www.acmicpc.net/problem/15683)|[정답 코드](./simulation/algo_15683.java)|9|
+|dp|[11726_2XN_타일링](https://www.acmicpc.net/problem/11726)|[정답 코드](./dp/algo_11726.java)|10|
