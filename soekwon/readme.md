@@ -22,3 +22,4 @@
 |simulation|[15683_감시](https://www.acmicpc.net/problem/15683)|[정답 코드](./simulation/15683_감시.py)|9|
 |dynamic|[11726_2xn 타일링](https://www.acmicpc.net/problem/11726)|[정답 코드](./dynamic/11726_2xn타일링.py)|10|
 |simulation|[14503_로봇 청소기](https://www.acmicpc.net/problem/14503)|[정답 코드](./simulation/14503_로봇청소기.py)|10|
+|dynamic|[1912_연속합](https://www.acmicpc.net/problem/1912)|[정답 코드](./dynamic/1912_연속합.py)|11|
