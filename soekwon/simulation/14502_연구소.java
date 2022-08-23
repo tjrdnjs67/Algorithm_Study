@@ -48,17 +48,19 @@ public class Main {
 		res = Math.max(sum, res);
 	}
 	
-	static void wallInstall(int cnt) {
+	static void wallInstall(int cnt, int bx, int by) {
 		if(cnt == 3) {
 			virusMove(laboratory);
 			return;
 		}
 				
-		for(int i = 0; i < N; i++) {		
+		for(int i = 0; i < N; i++) {
+			if(i < bx) continue;
 			for(int j = 0; j < M; j++) {
+				if(i <= bx && j < by) continue;
 				if(laboratory[i][j] == 0) {
 					laboratory[i][j] = 1;
-					wallInstall(cnt+1);
+					wallInstall(cnt+1, i, j);
 					laboratory[i][j] = 0;
 				}
 			}
@@ -79,7 +81,7 @@ public class Main {
     		}
     	}
     	
-    	wallInstall(0);
+    	wallInstall(0,0,0);
     	System.out.println(res);
     }   
 }
