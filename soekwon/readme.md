@@ -28,3 +28,4 @@
 |binarySearch|[1654_랜선 자르기](https://www.acmicpc.net/problem/1654)|[정답 코드](./binarySearch/1654_랜선자르기.py)|12|
 |twopointer|[3151_합이 0](https://www.acmicpc.net/problem/3151)|[정답 코드](./twopointer/3151_합이0.java)|13|
 |twopointer|[1806_부분합](https://www.acmicpc.net/problem/1806)|[정답 코드](./twopointer/1806_부분합.java)|13|
+|simulation|[18808_스티커 붙이기](https://www.acmicpc.net/problem/18808)|[정답 코드](./simulation/18808_스티커붙이기.java)|14|
