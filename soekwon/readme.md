@@ -35,4 +35,4 @@
 |simulation|[15685_드래곤 커브](https://www.acmicpc.net/problem/15685)|[정답 코드](./simulation/15685_드래곤커브.java)|16|
 |simulation|[17136_색종이 붙이기](https://www.acmicpc.net/problem/17136)|[정답 코드](./simulation/17136_색종이붙이기.java)|16|
 |simulation|[17281_Ball](https://www.acmicpc.net/problem/17281)|[정답 코드](./simulation/17281_Ball.java)|17|
-|simulation|[21608_상어 초등학교](https://www.acmicpc.net/problem/21608)|[정답 코드](./simulation/21608_.java)|17|
+|simulation|[21608_상어 초등학교](https://www.acmicpc.net/problem/21608)|[정답 코드](./simulation/21608_상어초등학교.java)|17|
