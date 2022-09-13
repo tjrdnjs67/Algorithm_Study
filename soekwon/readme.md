@@ -36,3 +36,4 @@
 |simulation|[17136_색종이 붙이기](https://www.acmicpc.net/problem/17136)|[정답 코드](./simulation/17136_색종이붙이기.java)|16|
 |simulation|[17281_Ball](https://www.acmicpc.net/problem/17281)|[정답 코드](./simulation/17281_Ball.java)|17|
 |simulation|[21608_상어 초등학교](https://www.acmicpc.net/problem/21608)|[정답 코드](./simulation/21608_상어초등학교.java)|17|
+|simulation|[16234_인구 이동](https://www.acmicpc.net/problem/16234)|[정답 코드](./simulation/16234_인구이동.java)|18|
