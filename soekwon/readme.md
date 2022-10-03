@@ -42,3 +42,4 @@
 |simulation|[1647_도시분할](https://www.acmicpc.net/problem/1647)|[정답 코드](./simulation/1647_도시분할.java)|19|
 |simulation|[17140_이차원 배열과 연산](https://www.acmicpc.net/problem/17140)|[정답 코드](./simulation/17140_이차원배열과연산.java)|20|
 |simulation|[17822_원판 돌리기](https://www.acmicpc.net/problem/17822)|[정답 코드](./simulation/17822_원판돌리기.java)|21|
+|greedy|[2170_선 긋기](https://www.acmicpc.net/problem/2170)|[정답 코드](./greedy/2170_선긋기.java)|21|
