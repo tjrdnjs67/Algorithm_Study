@@ -45,3 +45,4 @@
 |greedy|[2170_선 긋기](https://www.acmicpc.net/problem/2170)|[정답 코드](./greedy/2170_선긋기.java)|21|
 |simulation|[16235_나무 재테크](https://www.acmicpc.net/problem/16235)|[정답 코드](./simulation/16235_나무재테크.java)|22|
 |greedy|[8980_택배](https://www.acmicpc.net/problem/8980)|[정답 코드](./greedy/8980_택배.java)|22|
+|greedy|[7570_줄 세우기](https://www.acmicpc.net/problem/7570)|[정답 코드](./greedy/7570_줄세우기.java)|23|
