@@ -46,3 +46,4 @@
 |simulation|[16235_나무 재테크](https://www.acmicpc.net/problem/16235)|[정답 코드](./simulation/16235_나무재테크.java)|22|
 |greedy|[8980_택배](https://www.acmicpc.net/problem/8980)|[정답 코드](./greedy/8980_택배.java)|22|
 |greedy|[7570_줄 세우기](https://www.acmicpc.net/problem/7570)|[정답 코드](./greedy/7570_줄세우기.java)|23|
+|simulation|[17142_연구소 3](https://www.acmicpc.net/problem/17142)|[정답 코드](./simulation/17142_연구소3.java)|24|
