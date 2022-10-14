@@ -48,3 +48,4 @@
 |greedy|[7570_줄 세우기](https://www.acmicpc.net/problem/7570)|[정답 코드](./greedy/7570_줄세우기.java)|23|
 |simulation|[17142_연구소 3](https://www.acmicpc.net/problem/17142)|[정답 코드](./simulation/17142_연구소3.java)|24|
 |graph|[11404_플로이드](https://www.acmicpc.net/problem/11404)|[정답 코드](./graph/11404_플로이드.java)|24|
+|simulation|[19238_스타트 택시](https://www.acmicpc.net/problem/19238)|[정답 코드](./simulation/19238_스타트택시.java)|25|
